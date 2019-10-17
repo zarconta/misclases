@@ -15,7 +15,7 @@ class Hello{
 		print ' primero guardo local, con add<br>';
 		print ' segundo commit en el local<br>';
 		print ' tercero conecto con el githuh con un add<br>';
-		print ' quinto push a l github y ya estan sincronizados>br>';
+		print ' quinto push a l github y ya estan sincronizados<br>';
 
 	}
 }
