@@ -1,0 +1,20 @@
+{
+    "name": "zarconta/misclases",
+    "description": "Library to conect to some databases like mariadb,firebird and utilities.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Javier Murcia",
+            "email": "javiermurcia@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "zarconta\\hello\\":"src/"
+        }
+
+
+    }
+}
