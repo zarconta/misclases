@@ -11,12 +11,7 @@ class Hello{
 	
 	function __construct()
 	{
-		print ' mejora trabaja con el push!!!!.Hello composer and github - Javier Murcia. lamus. <br>';
-		print ' primero guardo local, con add<br>';
-		print ' segundo commit en el local<br>';
-		print ' tercero conecto con el githuh con un add<br>';
-		print ' quinto push a l github y ya estan sincronizados<br>';
-
+		print ' Mensaje desde el contructor de la clase Hello.Javier Murcia <br>';
 	}
 }
 
